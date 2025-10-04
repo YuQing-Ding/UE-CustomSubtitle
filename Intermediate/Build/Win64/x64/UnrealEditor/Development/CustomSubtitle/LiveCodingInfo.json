@@ -1,0 +1,16 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.CustomSubtitle.cpp.obj": [
+			"CustomSubtitle.init.gen.cpp.obj",
+			"SubtitleInterface.gen.cpp.obj",
+			"SubtitleRichTextBlock.gen.cpp.obj",
+			"SubtitleTextBlock.gen.cpp.obj",
+			"PerModuleInline.gen.cpp.obj",
+			"CustomSubtitle.cpp.obj",
+			"SubtitleInterface.cpp.obj",
+			"SubtitleRichTextBlock.cpp.obj",
+			"SubtitleTextBlock.cpp.obj"
+		]
+	}
+}
